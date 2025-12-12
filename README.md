@@ -4,7 +4,7 @@
 * DO NOT add any submodule initilization commands when cloning the repo or any any point after the repo has been cloned.
   To clone and build this is how it's done.
   ```
-  git clone https://github.com/lvgl-micropython/lvgl_micropython
+  git clone https://github.com/mmry2940/lvgl_micropython
   cd lvgl_micropython
   python3 make.py esp32 ......
   ```
